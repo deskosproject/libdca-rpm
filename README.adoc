@@ -1,0 +1,6 @@
+= DeskOS: libdca RPM
+
+This is the _libdca_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/libdca-0.0.5-7.el7.nux.src.rpm[http://li.nux.ro/download/nux/dextop/el7/SRPMS/libdca-0.0.5-7.el7.nux.src.rpm]
